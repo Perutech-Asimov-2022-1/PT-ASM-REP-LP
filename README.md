@@ -4,7 +4,7 @@
 ## Description
 This repository contains the landing page for the asimov project
 
-## Team CyberSoft 👨‍💻
+## Team PeruTech 👨‍💻
 * Gustavo Chavez Tecssi		    u201914306
 * Erikc Anderson Cortez Benites	u201810133
 * Jorgeluis Escobedo Mori	    u201924132
