@@ -11,4 +11,4 @@ This repository contains the landing page for the asimov project
 * Raquel Chavez Cruz		    u201914478
 
 
-See [Landing Page deployed](https://tavoexe.github.io/Asimov-LandingPage/).
+See [Landing Page deployed](https://perutech-asimov-2022-1.github.io/PT-ASM-REP-LP/).
